@@ -15,6 +15,7 @@ public class DataStructuresHW
         System.out.println("Sum of the elements of the array: " + sum);
         
         //Question #2
+        //Output is 2 because the highest number is at index 2
         double[ ] exampleArray = {1,5,6,5,4,1};
 
         double maximum = exampleArray[0];
